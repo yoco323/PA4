@@ -1,0 +1,61 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #f8f9fa;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+
+
+tr:hover {
+  background-color: #ddd;
+}
+
+.button {
+  background-color: #4d45f0;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+
+
+.delete-btn i {
+  color: #00aaff;
+}
+
+.edit-btn i {
+  color: #00aaff;
+}
+
+tbody td {
+  vertical-align: middle;
+}
+
+.transactionButton {
+  text-decoration: none;
+  color: white;
+  background-color: blue;
+  border-radius: 5px;
+  padding: 10px 15px;
+}
